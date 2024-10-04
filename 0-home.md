@@ -19,12 +19,12 @@ sauravag@seas.upenn.edu
 **Dr. Vijay Kumar**\
 Professor and Dean\
 University of Pennsylvania, USA\
-https://kumarrobotics.org
+[https://kumarrobotics.org](https://kumarrobotics.org)
 
 **Dr. Nicholas Roy**\
 Professor\
 Massachusetts Institute of Technology, USA\
-https://rrg-test.csail.mit.edu/wiki/
+[https://rrg-test.csail.mit.edu/wiki/](https://rrg-test.csail.mit.edu/wiki/)
 
 **Dr. Michael Amir (Speaker Chair)**\
 Post-doctoral Researcher\
@@ -41,4 +41,4 @@ University of Pennsylvania, USA
 **Zhiyang Wang (E-Media Chair)**\
 PhD Candidate\
 University of Pennsylvania, USA\
-https://zhiyangwang.net/
+[https://zhiyangwang.net/](https://zhiyangwang.net/)

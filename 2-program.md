@@ -5,7 +5,7 @@ nav: true
 
 
 | Time | Session |
-| ----------- | ----------- |
+| :------------ | :------------------------: |
 | 9:00 - 9:05 | Opening Remarks |
 | 9:05 - 10:00 | *Keynote Lecture*: **Alejandro Ribeiro** |
 | 10:00 - 10:15 | Coffee Break |
