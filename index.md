@@ -2,6 +2,8 @@
 title: Home
 ---
 
+{% include figure.html img="drones.jpg" alt="" caption="" width="75%" %}
+
 # Synopsis
 
 Collaborative intelligent systems are driving innovation in critical applications such as large-scale search and rescue, reconnaissance missions, and sensory networks. Despite the advantages, designing robust and scalable algorithms that require sharing information to collaborate is non-trivial, especially in decentralized settings. Learning-based methods, particularly those leveraging Graph Neural Networks (GNNs), have emerged as powerful approaches for modeling multi-agent systems. GNNs enable neural networks to use graphs as a natural representation of a team and its interactions, thus capturing the inherent structure and patterns in team collaboration. Recent advances show that GNNs are transferable to new graph topologies, scalable to larger robot teams, and resilient to graph deformations.
@@ -41,9 +43,6 @@ University of Pennsylvania, USA
 PhD Candidate\
 University of Pennsylvania, USA\
 [https://zhiyangwang.net/](https://zhiyangwang.net/)
-
-
-<!-- {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %} -->
 
 
 > A minimal Jekyll theme for creating workshop websites.
