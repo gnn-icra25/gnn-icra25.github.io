@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="drones.jpg" alt="" caption="" width="75%" %}
+{% include figure.html img="drones.jpg" alt="" caption="" width="100%" %}
 
 # Synopsis
 
