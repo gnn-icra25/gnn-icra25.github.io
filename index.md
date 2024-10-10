@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
+(The website is under construction.)
 
-{% include figure.html img="drones.jpg" alt="" caption="" width="100%" %}
+<!-- {% include figure.html img="drones.jpg" alt="" caption="" width="100%" %} -->
 
 # Synopsis
 
